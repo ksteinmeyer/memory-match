@@ -99,7 +99,7 @@ body {
 
   /*css styles*/
   #button36 {
-    display: none;
+    display: inline-flex;
   }
 
   .matchingBox12 {
