@@ -99,7 +99,7 @@ body {
 
   /*css styles*/
   #button36 {
-    display: inline-flex;
+    display: none;
   }
 
   .matchingBox12 {
@@ -127,7 +127,7 @@ body {
 
   /*css styles*/
   #button36 {
-    display: inline-flex;
+    display: none;
   }
 
   .matchingBox12 {
@@ -185,7 +185,7 @@ body {
     flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 6.5%;
-    margin: 20px;
+    margin: 10px;
     height: 75px;
     background-color: black;
     border-radius: 5px;
