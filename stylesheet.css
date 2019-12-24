@@ -93,17 +93,6 @@ body {
     background-color: black;
     border-radius: 5px;
   }
-
-  /* .matchingBox36 {
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex-basis: auto;
-    margin: 20px;
-    width: 8%;
-    height: 100px;
-    background-color: black;
-    border-radius: 5px;
-  } */
 }
 
 @media only screen and (max-width: 600px) {
@@ -117,7 +106,7 @@ body {
     flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 20%;
-    margin: 20px;
+    margin: 5px;
     height: 75px;
     background-color: black;
     border-radius: 5px;
@@ -127,7 +116,7 @@ body {
     flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 14%;
-    margin: 20px;
+    margin: 5px;
     height: 50px;
     background-color: black;
     border-radius: 5px;
@@ -195,7 +184,7 @@ body {
   .matchingBox36 {
     flex-grow: 1;
     flex-shrink: 1;
-    flex-basis: 5.5%;
+    flex-basis: 6.5%;
     margin: 20px;
     height: 75px;
     background-color: black;
